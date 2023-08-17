@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#main{
+    background-color: rgb(220, 220, 220);
+    padding:30px;
+}
+#main>h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+#main>div{
+    background-color: white;
+    border: 2px solid grey;
+    padding: 20px;
+}
+.writer{
+    text-align: right;
+    font-style: italic;
+}
